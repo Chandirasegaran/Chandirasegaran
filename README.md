@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandirasegaran</h1>
 <h3 align="center">A Student from Pondicherry University</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Python**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, Bootstrap, Dart, Flutter**
 
 - 👨‍💻 All of my projects are available at github itself 😎.
 - 📫 Contact Me **chandirasegaransegar@gmail.com**
