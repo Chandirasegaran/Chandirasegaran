@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Pondicherry University<br>🤝 I’m looking for help with getting Internships<br>🌱 I’m currently learning DSA and Flutter Framework<br>💬 Ask me about Computer
+🔭 I’m currently studying at Pondicherry University<br>🤝 Working as Backend Developer at @Highbrow Technologies<br>🌱 I’m currently learning Spring Boot, RestAPI, DSA and Flutter Framework<br>💬 Ask me about Computer
 
 
 ## 🌐 Socials:
